@@ -1,0 +1,160 @@
+.body{
+
+   font-family: 'Bebas Neue', cursive;
+  color:red;
+}
+/*navbar*/
+.nav-item {
+
+letter-spacing : 0.2em;
+font-size :14px;
+text-transform:uppercase;
+
+           }
+
+.dropdown-item{
+
+
+letter-spacing: 0.2em;
+font-size:14px;
+text-transform:uppercase;
+
+
+}
+
+/*footer*/
+.my_footer{
+
+    height:60;
+}
+
+
+.my_footer p{
+
+      padding-top:20px;
+      font-size:14px;
+
+
+
+
+}
+
+
+
+/*categoty page*/
+.my_row_class {
+  padding-top:15px;
+
+}
+
+
+.my_row_class .mx_auto{
+     font-size:14px;
+     color:#000;
+
+
+}
+.my_image{
+padding:60px;
+padding-left:30%;
+padding-right:20%;
+width:90%;
+height:20%;
+
+}
+
+.my_title{
+font-size:16px;
+text-transform:uppercase;
+letter-spacing:.2em;
+
+}
+
+.my_image_padding{
+
+padding:25px;
+
+}
+
+.my_bottom_margin{
+ margin-bottom:10px;
+
+}
+
+.card-body h4 {
+font-size:14px;
+text-transform:uppercase;
+letter-spacing:.2em ;
+
+}
+
+
+
+/*product page*/
+
+.row my_prod_row_class{
+
+padding-top:15px;
+padding-bottom:20px;
+}
+.row my_prod_row_class mx_auto{
+
+color:#000;
+font-size:12px;
+text-decoration:none;
+
+}
+
+
+
+.my_prod_title{
+
+
+font-size:16px;
+text-transform:uppercase;
+letter-spacing:.2em;
+padding-top:15px;
+padding-bottom:10px;
+
+}
+
+.my_prod_text{
+
+padding-right:20px;
+
+
+
+}
+
+/*cart page*/
+.my_custom_table{
+    min-width:400px;
+    font-size:14px;
+
+}
+
+.my_custom_thead{
+
+    font-weight:normal;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+    background-color:red;
+
+
+}
+.custom_a{
+    text-decoration:none;
+
+
+}
+.custom_icon{
+
+text-decoration:none;
+color:#868e96 !important;
+
+
+}
+.my_custom_button{
+    margin-top:5px;
+
+}
